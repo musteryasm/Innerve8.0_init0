@@ -5,17 +5,15 @@ The Intelligent Intrusion Detection System (IDS) is designed to enhance network 
 ## Project Structure
 
 1. **Admin App** - Django dashboard for administrators to monitor and manage the system.
-
 2. **Attack** - Folders containing demo attacks for testing purposes.
-   - Host-based attacks/
-   - DOS_attack/
-   
+   - Host-based attacks
+   - DOS_attack  
 3. **Models**
    - `main (1).ipynb`: Machine learning and deep learning data model pipeline.
    - `preprocessed_compiled_data.ipynb`: Data preprocessing and visualizations.
+4. **Sniffer** - Packet sniffer written in Python for low latency and custom feature extraction based on feature importance in preprocessing.
 
-4. **Sniffer**
-   - `snif.py`: Packet sniffer written in Python for low latency and custom feature extraction based on feature importance in preprocessing.
+Find the merged dataset here - https://drive.google.com/file/d/1IT-hzcvbXSCgLR2-TmMfOFkD1TiuQMai/view and the preprocessed data here - https://drive.google.com/file/d/1EeZOnvGKWYnMpBi0jvb8QvrSdqlAtTUT/view
 
 
 ## Screenshots
