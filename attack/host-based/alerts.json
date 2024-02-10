@@ -1,0 +1,19 @@
+{
+    "AlertMessage":  {
+                         "ID":  "2147748165",
+                         "Category":  "Password Stealer",
+                         "DetectionType":  "FastPath",
+                         "User":  "LAPTOP-56A0OVFP\\aryan",
+                         "Name":  "PWS:Win32/Zbot!ml",
+                         "SecurityIntelligenceVersion":  "AV: 1.403.3507.0, AS: 1.403.3507.0, NIS: 1.403.3507.0",
+                         "EngineVersion":  "AM: 1.1.23110.2, NIS: 1.1.23110.2",
+                         "Severity":  "Severe",
+                         "ProcessName":  "C:\\Windows\\explorer.exe",
+                         "DetectionSource":  "Real-Time Protection",
+                         "Path":  "file:_C:\\Users\\aryan\\Downloads\\theZoo\\malware\\Source\\Original\\KINS_Dec2011\\KINS_Dec2011\\admincore\\system\\reports_files.php",
+                         "DetectionOrigin":  "Local machine",
+                         "MACAddress":  "6C-6A-77-9F-F6-3C",
+                         "Message":  "Microsoft Defender Antivirus has detected malware or other potentially unwanted software."
+                     },
+    "AlertTime":  "02-10-2024 11:16:17"
+}

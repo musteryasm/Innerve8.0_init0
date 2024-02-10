@@ -1,0 +1,1584 @@
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
+[Alert Time]: 09/07/2023 20:19:04
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.W!MTB&threatid=2147759946&enterprise=0
+ 	Name: Trojan:HTML/Phish.W!MTB
+ 	ID: 2147759946
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573603901463.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:19:01
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.P!MTB&threatid=2147740976&enterprise=0
+ 	Name: Trojan:HTML/Phish.P!MTB
+ 	ID: 2147740976
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613573723825303.html
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:51
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.VIS!MTB&threatid=2147777927&enterprise=0
+ 	Name: Trojan:HTML/Phish.VIS!MTB
+ 	ID: 2147777927
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->(JSNORM); file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1624678464675918.html->(SCRIPT0000)->[DocWrite]
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 09/07/2023 20:18:44
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:HTML/Phish.BKA!MTB&threatid=2147758236&enterprise=0
+ 	Name: Trojan:HTML/Phish.BKA!MTB
+ 	ID: 2147758236
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: containerfile:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html; file:_C:\Users\aryan\Downloads\dataset_part_1\dataset-part-1\1613572749741219.html->(SCRIPT0000)
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.397.536.0, AS: 1.397.536.0, NIS: 1.397.536.0
+ 	Engine Version: AM: 1.1.23080.2005, NIS: 1.1.23080.2005
+
+
+[Alert Time]: 06/14/2023 14:30:32
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe; regkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service; runkey:_HKCU@S-1-5-21-4024377840-3978261944-4061219150-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\\Windows Updates Service
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 06/14/2023 14:29:28
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\aryan\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: System
+ 	User: NT AUTHORITY\SYSTEM
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.391.1378.0, AS: 1.391.1378.0, NIS: 1.391.1378.0
+ 	Engine Version: AM: 1.1.23050.3, NIS: 1.1.23050.3
+
+
+[Alert Time]: 05/15/2023 00:43:03
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:42:16
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 05/15/2023 00:41:49
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Worm:Win32/Lightmoon.H&threatid=2147619539&enterprise=0
+ 	Name: Worm:Win32/Lightmoon.H
+ 	ID: 2147619539
+ 	Severity: Severe
+ 	Category: Worm
+ 	Path: file:_D:\New Folder.scr
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.389.1246.0, AS: 1.389.1246.0, NIS: 1.389.1246.0
+ 	Engine Version: AM: 1.1.20300.3, NIS: 1.1.20300.3
+
+
+[Alert Time]: 03/30/2023 23:06:59
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=PUA:Win32/Presenoker&threatid=242420&enterprise=0
+ 	Name: PUA:Win32/Presenoker
+ 	ID: 242420
+ 	Severity: Low
+ 	Category: Potentially Unwanted Software
+ 	Path: file:_C:\Users\aryan\Downloads\_Oceanofgames.com_Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident_Evil_2_v20191218_incl_DLC_CODEX\Resident.Evil.2.Update.v20191218.incl.DLC-CODEX\Update\Setup.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: FastPath
+ 	Detection Source: Real-Time Protection
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: C:\Windows\explorer.exe
+ 	Security intelligence Version: AV: 1.385.1563.0, AS: 1.385.1563.0, NIS: 1.385.1563.0
+ 	Engine Version: AM: 1.1.20100.6, NIS: 1.1.20100.6
+
+
+[Alert Time]: 11/01/2022 18:04:37
+[Alert Message]: Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=TrojanDownloader:Win32/Nemucod!rfn&threatid=2147727601&enterprise=0
+ 	Name: TrojanDownloader:Win32/Nemucod!rfn
+ 	ID: 2147727601
+ 	Severity: Severe
+ 	Category: Trojan Downloader
+ 	Path: containerfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip; file:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip->templatemo_576_snapx_photography/assets/js/wow.js; webfile:_C:\Users\aryan\Downloads\templatemo_576_snapx_photography.zip|https://web.whatsapp.com/|pid:3452,ProcessStart:133117796737998763
+ 	Detection Origin: Internet
+ 	Detection Type: Concrete
+ 	Detection Source: Downloads and attachments
+ 	User: LAPTOP-56A0OVFP\aryan
+ 	Process Name: Unknown
+ 	Security intelligence Version: AV: 1.377.1124.0, AS: 1.377.1124.0, NIS: 1.377.1124.0
+ 	Engine Version: AM: 1.1.19700.3, NIS: 1.1.19700.3
+
+
